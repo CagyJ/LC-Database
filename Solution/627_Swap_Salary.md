@@ -1,0 +1,1 @@
+UPDATE salary SET sex=decode(sex,'m','f','f','m');
