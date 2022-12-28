@@ -58,3 +58,11 @@ A repo for DB
 [Solution](https://github.com/CagyJ/LC-Database/blob/master/Solution/627_Swap_Salary.md)
 
 <br>
+
+
+
+## Codility
+
+**SqlEventsDelta**
+- task: https://app.codility.com/programmers/trainings/6/sql_events_delta/
+- solution: [click here](codility/SqlEventsDelta.sql)
