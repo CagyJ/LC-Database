@@ -61,7 +61,13 @@ A repo for DB
 
 
 ## Codility
+Correctness: 100%🔥
 
+Performance: 100%🔥
 **SqlEventsDelta**
 - task: https://app.codility.com/programmers/trainings/6/sql_events_delta/
 - solution: [click here](codility/SqlEventsDelta.sql)
+
+**SqlWorldCup**
+- task: https://app.codility.com/programmers/trainings/6/sql_world_cup/
+- solution: [click here](codility/SqlWorldCup.sql)
